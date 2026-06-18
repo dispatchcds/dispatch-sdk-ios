@@ -15,6 +15,9 @@ Xcode → File → Add Package Dependencies…
 https://github.com/dispatchcds/dispatch-sdk-ios
 ```
 
+Dependency Rule — **Up to Next Major Version**, текущая версия `0.1.1`.
+Для CocoaPods/Expo-хостов: `pod 'DispatchSDK', :podspec => 'https://raw.githubusercontent.com/dispatchcds/dispatch-sdk-ios/0.1.1/DispatchSDK.podspec'`.
+
 ## Quick start
 
 SwiftUI:
