@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DispatchSDK",
-            url: "https://github.com/dispatchcds/dispatch-sdk-ios/releases/download/0.1.1/DispatchSDK.xcframework.zip",
-            checksum: "48c5cf2ae4a84307141985224b618bee5b3915c5cc9ec152e43a599dcf11a611"
+            url: "https://github.com/dispatchcds/dispatch-sdk-ios/releases/download/0.2.0/DispatchSDK.xcframework.zip",
+            checksum: "095c64b93fe1e08e1e820535735e2cef32918de089292af7fdb2c29772c87d97"
         ),
     ]
 )
